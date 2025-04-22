@@ -1,6 +1,6 @@
 Sprint 1
 - [x] Created readme.md DONE
-- [ ] Needs to assign licenses to repository 
+- [X] Needs to assign licenses to repository 
 - [x] Found similar repository - https://github.com/OmkarPathak/pyresparser 
 - [ ] Begin coding changes 
 - [ ] Import necessary resources 
