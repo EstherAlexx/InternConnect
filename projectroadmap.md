@@ -10,6 +10,6 @@ Sprint 2
 - [X]Make sure to comment on changes that was made 
 Sprint 3
 - [ ] Make sure to use check boxes 
-- [X] Schedule teams presentations 
+- [X]Schedule teams presentations
 - [ ] Create PowerPoint 
 - [ ] Update readme.md
